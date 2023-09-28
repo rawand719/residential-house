@@ -5,6 +5,7 @@
 ![zone area ](https://github.com/rawand719/residential-house/blob/main/RESIDENTIAL%20HOUSE.png)
 
 
-[PDF](https://github.com/rawand719/residential-house/blob/main/residential%20house%20project.pdf)**FOR MOR INFORMATIONS VISIT THE PDF AND DOWNLOAD IT**
+[PDF](https://github.com/rawand719/residential-house/blob/main/residential%20house%20project.pdf)   **FOR MOR INFORMATIONS VISIT THE PDF AND DOWNLOAD IT**
 
 ---
+![3D](image.jpg)
