@@ -8,4 +8,4 @@
 [PDF](https://github.com/rawand719/residential-house/blob/main/residential%20house%20project.pdf)   **FOR MOR INFORMATIONS VISIT THE PDF AND DOWNLOAD IT**
 
 ---
-![3D](image.jpg)
+![3D](https://github.com/rawand719/residential-house/blob/main/images/3d%20max%20studio%20.png)
